@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Exercicio 1/Exercicio 1.csproj" />
+  <Project Path="Exercicio2/Exercicio2.csproj" />
+  <Project Path="Exercicio3/Exercicio3.csproj" Id="d5076ddb-0afc-437d-bd50-c8f932481158" />
+  <Project Path="Exercicio5/Exercicio4.csproj" Id="c16103a7-b3be-4e06-a00f-a88f50a9dddf" />
+  <Project Path="Matrizes/Matrizes.csproj" />
+</Solution>
